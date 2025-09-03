@@ -1,7 +1,3 @@
-// Problem: https://leetcode.com/problems/concatenation-of-array/
-// Author: Jayesh Khandelwal
-// Solution in C++
-
 class Solution {
 public:
     vector<int> getConcatenation(vector<int>& nums) {
