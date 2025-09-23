@@ -8,8 +8,6 @@ public:
         vector<int> freq(total + 1, 0);
         long long actualSum = 0;
         int repeated = -1, missing = -1;
-
-        // Count frequency and sum
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 int val = grid[i][j];
@@ -20,8 +18,6 @@ public:
                 }
             }
         }
-
-        // Missing = expectedSum - (actualSum - repeated)
         missing = expectedSum - (actualSum - repeated);
 
         return {repeated, missing};
