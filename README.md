@@ -49,6 +49,7 @@ This repo is a part of my journey to:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0120-triangle) |
 ## Dynamic Programming
@@ -60,4 +61,8 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
