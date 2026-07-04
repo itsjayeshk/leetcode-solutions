@@ -73,12 +73,22 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
