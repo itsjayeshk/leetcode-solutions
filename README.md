@@ -52,6 +52,7 @@ This repo is a part of my journey to:
 | [0001-two-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0120-triangle) |
+| [1288-remove-covered-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +100,8 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0071-simplify-path) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
