@@ -57,6 +57,7 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0120-triangle) |
 ## Matrix
 |  |
@@ -69,6 +70,7 @@ This repo is a part of my journey to:
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
@@ -83,6 +85,7 @@ This repo is a part of my journey to:
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Union-Find
 |  |
@@ -107,5 +110,10 @@ This repo is a part of my journey to:
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
