@@ -53,6 +53,7 @@ This repo is a part of my journey to:
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0120-triangle) |
 | [1288-remove-covered-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0001-two-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
 | ------- |
@@ -91,10 +93,12 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -116,6 +120,7 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
