@@ -53,6 +53,7 @@ This repo is a part of my journey to:
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0120-triangle) |
 | [1288-remove-covered-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
@@ -64,6 +65,7 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
