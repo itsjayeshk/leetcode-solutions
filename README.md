@@ -128,4 +128,8 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
