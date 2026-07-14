@@ -106,6 +106,7 @@ This repo is a part of my journey to:
 | ------- |
 | [0071-simplify-path](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0071-simplify-path) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [3210-find-the-encrypted-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
