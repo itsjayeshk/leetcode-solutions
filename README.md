@@ -132,4 +132,8 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1291-sequential-digits) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
