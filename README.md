@@ -80,10 +80,12 @@ This repo is a part of my journey to:
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -95,6 +97,7 @@ This repo is a part of my journey to:
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Union-Find
 |  |
 | ------- |
@@ -109,6 +112,7 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3210-find-the-encrypted-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 ## Stack
@@ -167,4 +171,8 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+## Backtracking
+|  |
+| ------- |
+| [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
