@@ -52,6 +52,7 @@ This repo is a part of my journey to:
 | [0001-two-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0120-triangle) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1288-remove-covered-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
