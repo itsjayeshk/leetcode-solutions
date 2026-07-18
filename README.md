@@ -122,6 +122,7 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -157,4 +158,8 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 <!---LeetCode Topics End-->
