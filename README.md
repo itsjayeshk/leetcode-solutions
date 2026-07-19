@@ -116,6 +116,7 @@ This repo is a part of my journey to:
 | [0071-simplify-path](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3210-find-the-encrypted-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 ## Stack
@@ -123,6 +124,7 @@ This repo is a part of my journey to:
 | ------- |
 | [0071-simplify-path](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 ## Backtracking
 |  |
@@ -187,4 +190,5 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
