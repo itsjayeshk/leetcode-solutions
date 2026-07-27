@@ -1,0 +1,3 @@
+tests/lc_tests
+tests/lc_tests.dSYM/
+*.o

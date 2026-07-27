@@ -5,7 +5,7 @@ public:
             return "";
         }
         int n = strs.size();
-        for(int i=0;i<n;i++){
+        for(int i=0;i<strs[0].size();i++){
             char c = strs[0][i];
             for (int j = 1; j < n; j++) {
                 if (i >= strs[j].size() || strs[j][i] != c) {
