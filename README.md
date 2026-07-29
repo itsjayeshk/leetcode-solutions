@@ -54,6 +54,7 @@ This repo is a part of my journey to:
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0120-triangle) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0915-partition-array-into-disjoint-intervals) |
+| [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
 | [1288-remove-covered-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -121,6 +122,7 @@ This repo is a part of my journey to:
 | ------- |
 | [0071-simplify-path](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -165,6 +167,7 @@ This repo is a part of my journey to:
 ## Enumeration
 |  |
 | ------- |
+| [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
 | [1291-sequential-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1291-sequential-digits) |
 ## Database
 |  |
@@ -197,6 +200,7 @@ This repo is a part of my journey to:
 ## Backtracking
 |  |
 | ------- |
+| [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Monotonic Stack
 |  |
