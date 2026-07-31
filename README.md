@@ -169,6 +169,7 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Enumeration
 |  |
 | ------- |
@@ -195,6 +196,7 @@ This repo is a part of my journey to:
 ## Simulation
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
