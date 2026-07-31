@@ -83,6 +83,7 @@ This repo is a part of my journey to:
 | [0001-two-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Tree
@@ -128,6 +129,7 @@ This repo is a part of my journey to:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3210-find-the-encrypted-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 ## Stack
 |  |
@@ -143,6 +145,7 @@ This repo is a part of my journey to:
 | [1288-remove-covered-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -201,6 +204,7 @@ This repo is a part of my journey to:
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,4 +215,8 @@ This repo is a part of my journey to:
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
