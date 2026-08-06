@@ -186,6 +186,7 @@ This repo is a part of my journey to:
 | ------- |
 | [0176-second-highest-salary](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0177-nth-highest-salary) |
+| [1757-recyclable-and-low-fat-products](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Number Theory
 |  |
 | ------- |
