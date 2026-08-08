@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-array-non-decreasing">3914. Minimum Operations to Make Array Non Decreasing</a></h2><h3>Medium</h3><hr><p data-end="140" data-start="88">You are given an integer array <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-array-non-decreasing">4270. Minimum Operations to Make Array Non Decreasing</a></h2><h3>Medium</h3><hr><p data-end="140" data-start="88">You are given an integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>In one operation, you may choose any <strong><span data-keyword="subarray-nonempty">subarray</span></strong> <code>nums[l..r]</code> and <strong>increase</strong> each element in that <strong>subarray</strong> by <code>x</code>, where <code>x</code> is any <strong>positive</strong> integer.</p>
 
