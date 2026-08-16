@@ -98,6 +98,7 @@ This repo is a part of my journey to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
@@ -109,12 +110,14 @@ This repo is a part of my journey to:
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Union-Find
