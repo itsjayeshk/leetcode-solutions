@@ -133,6 +133,7 @@ This repo is a part of my journey to:
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
