@@ -7,7 +7,6 @@ public:
         int n = 1;
         ListNode* count = head;
 
-        // Find length
         while (count->next != nullptr) {
             count = count->next;
             n++;
