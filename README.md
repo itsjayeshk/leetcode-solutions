@@ -206,6 +206,7 @@ This repo is a part of my journey to:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
@@ -242,6 +243,7 @@ This repo is a part of my journey to:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
