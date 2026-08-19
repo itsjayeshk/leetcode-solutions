@@ -161,6 +161,7 @@ This repo is a part of my journey to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -205,6 +206,7 @@ This repo is a part of my journey to:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -240,6 +242,7 @@ This repo is a part of my journey to:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2105-watering-plants-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2105-watering-plants-ii/) | Medium |
@@ -280,6 +283,7 @@ This repo is a part of my journey to:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 | Problem Name | Difficulty |
