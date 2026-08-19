@@ -58,6 +58,7 @@ This repo is a part of my journey to:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0704-binary-search](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
@@ -201,6 +202,7 @@ This repo is a part of my journey to:
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0704-binary-search](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
