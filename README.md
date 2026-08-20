@@ -174,6 +174,7 @@ This repo is a part of my journey to:
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -215,6 +216,7 @@ This repo is a part of my journey to:
 | ------- |
 | [0061-rotate-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
@@ -253,6 +255,7 @@ This repo is a part of my journey to:
 | ------- |
 | [0061-rotate-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -318,6 +321,7 @@ This repo is a part of my journey to:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 |  |
@@ -331,4 +335,8 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
