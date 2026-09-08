@@ -47,8 +47,8 @@ This repo is a part of my journey to:
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0041-first-missing-positive) |
@@ -82,8 +82,8 @@ This repo is a part of my journey to:
 | [3904-smallest-stable-index-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0045-jump-game-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -96,14 +96,14 @@ This repo is a part of my journey to:
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0788-rotated-digits) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0041-first-missing-positive) |
@@ -119,8 +119,8 @@ This repo is a part of my journey to:
 | [3731-find-missing-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -128,24 +128,24 @@ This repo is a part of my journey to:
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -153,18 +153,18 @@ This repo is a part of my journey to:
 | [0515-find-largest-value-in-each-tree-row](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0043-multiply-strings) |
@@ -180,8 +180,8 @@ This repo is a part of my journey to:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3210-find-the-encrypted-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3210-find-the-encrypted-string) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0071-simplify-path](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
@@ -190,8 +190,8 @@ This repo is a part of my journey to:
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsjayeshk/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0274-h-index/) | Medium |
@@ -205,8 +205,8 @@ This repo is a part of my journey to:
 | [3731-find-missing-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0043-multiply-strings](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0089-gray-code](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
@@ -222,8 +222,8 @@ This repo is a part of my journey to:
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0035-search-insert-position](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -233,8 +233,8 @@ This repo is a part of my journey to:
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0061-rotate-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -244,13 +244,13 @@ This repo is a part of my journey to:
 | [0445-add-two-numbers-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
 | [1291-sequential-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1291-sequential-digits) |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0176-second-highest-salary](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
@@ -267,14 +267,14 @@ This repo is a part of my journey to:
 | [1757-recyclable-and-low-fat-products](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/itsjayeshk/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0061-rotate-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
@@ -285,8 +285,8 @@ This repo is a part of my journey to:
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0043-multiply-strings](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsjayeshk/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2105-watering-plants-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2105-watering-plants-ii/) | Medium |
@@ -294,8 +294,8 @@ This repo is a part of my journey to:
 | [2211-count-collisions-on-a-road](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0045-jump-game-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -306,82 +306,82 @@ This repo is a part of my journey to:
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0089-gray-code](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0264-ugly-number-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0089-gray-code](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Floyd's Cycle Finding Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0142-linked-list-cycle-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
 ## Knapsack Problem
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0279-perfect-squares](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 ## Complete Knapsack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0279-perfect-squares](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3904-smallest-stable-index-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0274-h-index](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
