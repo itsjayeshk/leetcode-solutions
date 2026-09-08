@@ -58,6 +58,7 @@ This repo is a part of my journey to:
 | [0120-triangle](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0274-h-index](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -193,6 +194,7 @@ This repo is a part of my journey to:
 | ------- | ------- |
 | [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
@@ -378,4 +380,8 @@ This repo is a part of my journey to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
