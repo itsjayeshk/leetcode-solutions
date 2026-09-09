@@ -61,6 +61,7 @@ This repo is a part of my journey to:
 | [0274-h-index](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -111,6 +112,7 @@ This repo is a part of my journey to:
 | [0242-valid-anagram](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -212,6 +214,7 @@ This repo is a part of my journey to:
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0788-rotated-digits) |
@@ -384,4 +387,12 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0274-h-index](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
