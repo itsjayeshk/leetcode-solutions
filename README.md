@@ -100,6 +100,7 @@ This repo is a part of my journey to:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0392-is-subsequence](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0788-rotated-digits) |
 ## Matrix
@@ -189,6 +190,7 @@ This repo is a part of my journey to:
 | [0151-reverse-words-in-a-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -306,6 +308,7 @@ This repo is a part of my journey to:
 | [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0392-is-subsequence](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2105-watering-plants-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2105-watering-plants-ii/) | Medium |
