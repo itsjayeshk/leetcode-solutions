@@ -51,6 +51,7 @@ This repo is a part of my journey to:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
@@ -214,6 +215,7 @@ This repo is a part of my journey to:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0148-sort-list](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0274-h-index/) | Medium |
@@ -302,6 +304,7 @@ This repo is a part of my journey to:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
