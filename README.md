@@ -58,6 +58,7 @@ This repo is a part of my journey to:
 | [0045-jump-game-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0120-triangle](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -187,6 +188,7 @@ This repo is a part of my journey to:
 | [0038-count-and-say](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -324,6 +326,7 @@ This repo is a part of my journey to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsjayeshk/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2105-watering-plants-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2105-watering-plants-ii/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
