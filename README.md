@@ -86,6 +86,7 @@ This repo is a part of my journey to:
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -250,6 +251,7 @@ This repo is a part of my journey to:
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
