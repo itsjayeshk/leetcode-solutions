@@ -70,6 +70,7 @@ This repo is a part of my journey to:
 | [0209-minimum-size-subarray-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0274-h-index/) | Medium |
+| [0289-game-of-life](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -116,6 +117,7 @@ This repo is a part of my journey to:
 | [0048-rotate-image](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
@@ -339,6 +341,7 @@ This repo is a part of my journey to:
 | ------- |
 | [0043-multiply-strings](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
+| [0289-game-of-life](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0289-game-of-life) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsjayeshk/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2105-watering-plants-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2105-watering-plants-ii/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
