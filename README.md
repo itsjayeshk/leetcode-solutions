@@ -60,6 +60,7 @@ This repo is a part of my journey to:
 | [0055-jump-game](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -114,6 +115,7 @@ This repo is a part of my journey to:
 | ------- |
 | [0048-rotate-image](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
@@ -125,6 +127,7 @@ This repo is a part of my journey to:
 | [0013-roman-to-integer](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
