@@ -262,6 +262,7 @@ This repo is a part of my journey to:
 | [0788-rotated-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -363,6 +364,7 @@ This repo is a part of my journey to:
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Backtracking
@@ -372,6 +374,7 @@ This repo is a part of my journey to:
 | [0089-gray-code](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
