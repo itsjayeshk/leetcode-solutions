@@ -75,6 +75,7 @@ This repo is a part of my journey to:
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0915-partition-array-into-disjoint-intervals) |
@@ -137,6 +138,7 @@ This repo is a part of my journey to:
 | [0380-insert-delete-getrandom-o1](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -238,6 +240,7 @@ This repo is a part of my journey to:
 | [0274-h-index](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
