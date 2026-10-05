@@ -320,6 +320,7 @@ This repo is a part of my journey to:
 | [1683-invalid-tweets](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/itsjayeshk/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [1934-confirmation-rate](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1934-confirmation-rate) |
 ## Number Theory
 |  |
 | ------- |
