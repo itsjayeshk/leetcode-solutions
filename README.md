@@ -263,6 +263,7 @@ This repo is a part of my journey to:
 | [0096-unique-binary-search-trees](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0264-ugly-number-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0319-bulb-switcher](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0319-bulb-switcher/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -497,4 +498,8 @@ This repo is a part of my journey to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
