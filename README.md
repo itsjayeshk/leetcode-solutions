@@ -81,6 +81,7 @@ This repo is a part of my journey to:
 | [0915-partition-array-into-disjoint-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
+| [1049-last-stone-weight-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1288-remove-covered-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -113,6 +114,7 @@ This repo is a part of my journey to:
 | [0392-is-subsequence](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0788-rotated-digits) |
+| [1049-last-stone-weight-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -453,6 +455,7 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -508,4 +511,8 @@ This repo is a part of my journey to:
 |  |
 | ------- |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
