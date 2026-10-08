@@ -81,6 +81,7 @@ This repo is a part of my journey to:
 | [0915-partition-array-into-disjoint-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
+| [0957-prison-cells-after-n-days](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1288-remove-covered-intervals](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -142,6 +143,7 @@ This repo is a part of my journey to:
 | [0383-ransom-note](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0957-prison-cells-after-n-days](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2456-most-popular-video-creator](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2456-most-popular-video-creator) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -270,6 +272,7 @@ This repo is a part of my journey to:
 | [0445-add-two-numbers-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0788-rotated-digits) |
+| [0957-prison-cells-after-n-days](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
@@ -423,6 +426,7 @@ This repo is a part of my journey to:
 | ------- | ------- |
 | [0089-gray-code](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0957-prison-cells-after-n-days](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 ## Trie
@@ -447,6 +451,7 @@ This repo is a part of my journey to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0957-prison-cells-after-n-days](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0957-prison-cells-after-n-days/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
