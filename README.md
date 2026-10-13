@@ -95,6 +95,7 @@ This repo is a part of my journey to:
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -255,6 +256,7 @@ This repo is a part of my journey to:
 | [2456-most-popular-video-creator](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2456-most-popular-video-creator) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -387,6 +389,7 @@ This repo is a part of my journey to:
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Backtracking
 |  |
