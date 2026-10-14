@@ -282,6 +282,7 @@ This repo is a part of my journey to:
 | [2348-number-of-zero-filled-subarrays](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -389,6 +390,7 @@ This repo is a part of my journey to:
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Backtracking
