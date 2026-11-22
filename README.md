@@ -227,6 +227,7 @@ This repo is a part of my journey to:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsjayeshk/leetcode-solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2211-count-collisions-on-a-road](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2456-most-popular-video-creator](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2456-most-popular-video-creator) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
