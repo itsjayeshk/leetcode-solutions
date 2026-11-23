@@ -145,6 +145,7 @@ This repo is a part of my journey to:
 | [0383-ransom-note](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0957-prison-cells-after-n-days](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2456-most-popular-video-creator](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2456-most-popular-video-creator) |
@@ -226,6 +227,7 @@ This repo is a part of my journey to:
 | [0316-remove-duplicate-letters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -371,6 +373,7 @@ This repo is a part of my journey to:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0392-is-subsequence](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0948-bag-of-tokens](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2105-watering-plants-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2105-watering-plants-ii/) | Medium |
@@ -524,6 +527,7 @@ This repo is a part of my journey to:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0567-permutation-in-string](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
