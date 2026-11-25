@@ -57,6 +57,7 @@ This repo is a part of my journey to:
 | [0041-first-missing-positive](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -419,6 +420,7 @@ This repo is a part of my journey to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0089-gray-code](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0949-largest-time-for-given-digits) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
