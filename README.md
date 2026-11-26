@@ -297,6 +297,7 @@ This repo is a part of my journey to:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2178-maximum-split-of-positive-even-integers/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3360-stone-removal-game](https://github.com/itsjayeshk/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -399,6 +400,7 @@ This repo is a part of my journey to:
 | [2105-watering-plants-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/2105-watering-plants-ii/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/itsjayeshk/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
+| [3360-stone-removal-game](https://github.com/itsjayeshk/leetcode-solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/itsjayeshk/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 | Problem Name | Difficulty |
