@@ -345,6 +345,7 @@ This repo is a part of my journey to:
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0177-nth-highest-salary) |
+| [0184-department-highest-salary](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0577-employee-bonus) |
