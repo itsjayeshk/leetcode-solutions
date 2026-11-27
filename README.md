@@ -352,6 +352,7 @@ This repo is a part of my journey to:
 | [0584-find-customer-referee](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/itsjayeshk/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1148-article-views-i) |
