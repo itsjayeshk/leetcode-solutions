@@ -54,6 +54,7 @@ This repo is a part of my journey to:
 | [0015-3sum](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
@@ -125,6 +126,7 @@ This repo is a part of my journey to:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -140,6 +142,7 @@ This repo is a part of my journey to:
 | [0012-integer-to-roman](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -425,6 +428,7 @@ This repo is a part of my journey to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itsjayeshk/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0089-gray-code](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -562,4 +566,12 @@ This repo is a part of my journey to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1049-last-stone-weight-ii](https://github.com/itsjayeshk/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/itsjayeshk/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
